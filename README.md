@@ -1,4 +1,4 @@
-# Aproximation
+# Approximation
 
 Problem source: http://www.infoarena.ro/problema/secv3
 
