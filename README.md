@@ -13,3 +13,7 @@ Input format example:
 1 1 3 2 5 <- a1
 
 4 2 5 3 6 <- a2
+
+Output format example:
+
+0.83 <- the value V
