@@ -183,7 +183,7 @@ class OperationsFields(GridLayout):
 
     def showViewPrivileges(self, instance):
         popup = Popup(
-            title='Edit privileges',
+            title='View privileges',
             content=TextInput(text='file1.txt => [MYSELF, Radu, Ioan]\n'
                 + 'file2.txt => [MYSELF]\n'
                 + 'file3.txt => [Vlad]\n',
